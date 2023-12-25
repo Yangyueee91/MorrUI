@@ -1,2 +1,2 @@
 # MorrUI
-The backup packages from Total Launcher.
+Total launcher 备份包型的 UI。
