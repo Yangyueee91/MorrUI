@@ -4,16 +4,16 @@
 
 Q1 **如何浏览主题活动？**
 
-[https://www.coolapk.com/u/19725581?from=qr]()
+[https://www.coolapk.com/u/19725581?from=qr](点击查看)
 
 ---
 
 Q2 **如何导入？**
 
-[https://www.coolapk.com/feed/37039246?shareKey=YmM4NTIxZTU2ZTk5NjU4OWI2NDQ~&shareUid=19725581&shareFrom=com.coolapk.market_13.4.1]()
+[https://www.coolapk.com/feed/37039246?shareKey=YmM4NTIxZTU2ZTk5NjU4OWI2NDQ~&shareUid=19725581&shareFrom=com.coolapk.market_13.4.1](点击查看)
 
 ---
 
 Q3 **我想要基于 MorrUI 进行二次创作？**
 
-OpenMorra 是享用 **CC BY-NC-SA 4.0 DEED** （[https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans]()） 协议共享的 Total Launcher 主题包，它拥有 MorrUI 的大部分特性，创作者可依照上述协议进行对 OpenMorra 的二次创作。若要详细了解请参见 [https://github.com/Yangyueee91/OpenMorra]() 。
+OpenMorra 是享用 **CC BY-NC-SA 4.0 DEED** （[https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans](点击详细了解此协议)） 协议共享的 Total Launcher 主题包，它拥有 MorrUI 的大部分特性，创作者可依照上述协议进行对 OpenMorra 的二次创作。若要详细了解请参见[https://github.com/Yangyueee91/OpenMorra](此处)。
