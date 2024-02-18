@@ -1,4 +1,4 @@
-**MorrUI** 是一个基于 Total launcher 实现的用户界面设计。在未来， MorrUI 可能发展为一个**启动器**甚至是一个**真正的系统**。
+**MorrUI** 是一个基于 Total launcher 实现的用户界面设计。在未来， MorrUI 可能发展为一个**启动器**甚至是一个**真正的 UI**。
 
 ---
 
@@ -16,4 +16,4 @@ Q2 **如何导入？**
 
 Q3 **我想要基于 MorrUI 进行二次创作？**
 
-**OpenMorra** 是想用 **CC BY-NC-SA 4.0 DEED** 协议共享的 Total Launcher 主题包，它拥有 MorrUI 的大部分特性，若要详细了解请参见
+**OpenMorra** 是想用 **CC BY-NC-SA 4.0 DEED [https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans]()** 协议共享的 Total Launcher 主题包，它拥有 MorrUI 的大部分特性，若要详细了解请参见 [https://github.com/Yangyueee91/OpenMorra]() 。
