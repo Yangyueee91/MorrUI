@@ -42,5 +42,6 @@ OpenMorra 是享用 [CC BY-NC-SA 4.0 DEED](https://creativecommons.org/licenses/
 
 ## 友情链接🔗
 - [@Yangyueee](http://www.coolapk.com/u/19725581)（酷安）
+- [@Can1425](https://www.coolapk.com/u/16491420)（酷安）
 - [Flag OS](https://gitee.com/can1425/)
 - [慛灿 Can1425](https://can1425.best6.top/)
