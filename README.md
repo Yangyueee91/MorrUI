@@ -41,6 +41,6 @@ OpenMorra 是享用 [CC BY-NC-SA 4.0 DEED](https://creativecommons.org/licenses/
 - Material Design Icons (图标由 [Pictogrammers](https://pictogrammers.com/library/mdi/) 提供)
 
 ## 友情链接🔗
-- [@Yangyueee](http://www.coolapk.com/u/19725581)
+- [@Yangyueee](http://www.coolapk.com/u/19725581)（酷安）
 - [Flag OS](https://gitee.com/can1425/)
 - [慛灿 Can1425](https://can1425.best6.top/)
