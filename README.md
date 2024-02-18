@@ -16,4 +16,4 @@ Q2 **如何导入？**
 
 Q3 **我想要基于 MorrUI 进行二次创作？**
 
-OpenMorra 是基于 
+**OpenMorra** 是想用 **CC BY-NC-SA 4.0 DEED** 协议共享的 Total Launcher 主题包，它拥有 MorrUI 的大部分特性，若要详细了解请参见
