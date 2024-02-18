@@ -1,6 +1,11 @@
 # 关于 MorrUI
 
 **MorrUI** 是一个基于 Total launcher 实现的用户界面设计。在以后， MorrUI 可能发展为一个**启动器**或是一个**真正的 UI** :shipit:
+
+# MorrUI 用户使用协议
+
+[点击查看↗](https://github.com/Yangyueee91/MorrUI/issues/3)
+
 # Q&A 答疑解惑
 ### Q1 如何浏览主题活动？
 
