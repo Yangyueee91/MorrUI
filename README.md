@@ -1,12 +1,10 @@
 ## 关于 MorrUI
 
-**MorrUI** 是一个基于 Total launcher 实现的用户界面设计。在以后， MorrUI 可能发展为一个**启动器**或是一个**真正的 UI** :shipit:
-
-本 UI 
+**MorrUI** 是一个使用 Total launcher 实现的用户界面设计。在以后， MorrUI 可能发展为一个**启动器**或是一个**真正的 UI** :shipit:
 
 ## MorrUI 用户使用协议
 
-本 UI 的使用须受[《MorrUI 用户协议》](https://github.com/Yangyueee91/MorrUI/issues/3)的约束。下载、导入或使用 MorrUI 即视为您已知悉且同意接受《MorrUI 用户使用协议》各项条款的约束和将来的所有更改。
+本 UI 的使用须受[《MorrUI 用户协议》](https://github.com/Yangyueee91/MorrUI/issues/3)的约束。下载、导入或使用 MorrUI 即视为您已知悉且同意接受[《MorrUI 用户协议》](https://github.com/Yangyueee91/MorrUI/issues/3)各项条款的约束和将来的所有更改。
 
 ## Q&A 答疑解惑
 ### Q1 如何浏览主题活动？
@@ -41,3 +39,8 @@ OpenMorra 是享用 [CC BY-NC-SA 4.0 DEED](https://creativecommons.org/licenses/
 
 **图标**
 - Material Design Icons (图标由 [Pictogrammers](https://pictogrammers.com/library/mdi/) 提供)
+
+## 友情链接🔗
+- [@Yangyueee](http://www.coolapk.com/u/19725581)
+- [Flag OS](https://gitee.com/can1425/)
+- [慛灿 Can1425](https://can1425.best6.top/)
