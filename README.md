@@ -1,5 +1,3 @@
-![IMG_20240218_213358](https://github.com/Yangyueee91/MorrUI/assets/151371382/b51ceae4-9c43-4882-bd3a-b4a1a2cdbdbd)
-
 ## 关于 MorrUI
 
 **MorrUI** 是一个使用 Total launcher 实现的用户界面设计。在以后， MorrUI 可能发展为一个**启动器**或是一个**真正的 UI** :shipit:
