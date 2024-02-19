@@ -1,29 +1,27 @@
-![IMG_MorrUI_logo_1250_1000](https://github.com/Yangyueee91/MorrUI/assets/151371382/a19bdbce-d6d8-4d9b-b80d-7f0b3a5b1595)
-## 关于 MorrUI
-
+![IMG_MorrUI_logo_625_500](https://github.com/Yangyueee91/MorrUI/assets/151371382/b4b7b14e-5f45-4cbf-a52d-adf6b29aa694)
+## 关于
 **MorrUI** 是一个使用 Total launcher 实现的用户界面设计。在以后， MorrUI 可能发展为一个**启动器**或是一个**真正的 UI** :shipit:
 
-## MorrUI 用户使用协议
+### UI 主题色
+Morra Blue `#5B95F6`
 
+## MorrUI 用户使用协议
 本 UI 的使用须受[《MorrUI 用户协议》](https://github.com/Yangyueee91/MorrUI/issues/3)的约束。
 > [!CAUTION]
 > 下载、导入或使用 MorrUI 即视为您已知悉且同意接受[《MorrUI 用户协议》](https://github.com/Yangyueee91/MorrUI/issues/3)各项条款的约束和将来的所有更改。
 
 ## Q&A 答疑解惑
 ### Q1 如何浏览主题活动？
-
 [点击查看↗](https://www.coolapk.com/u/19725581?from=qr)
 
 ---
 
 ### Q2 如何导入？
-
 [点击查看↗](https://www.coolapk.com/feed/37039246?shareKey=YmM4NTIxZTU2ZTk5NjU4OWI2NDQ~&shareUid=19725581&shareFrom=com.coolapk.market_13.4.1)
 
 ---
 
 ### Q3 我想要基于 MorrUI 进行二次创作？
-
 OpenMorra 是享用 [CC BY-NC-SA 4.0 DEED](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 协议共享的 Total Launcher 主题包，它拥有 MorrUI 的大部分特性，创作者可依照上述协议进行对 OpenMorra 的二次创作。若要详细了解 OpenMorra 请参见[此处](https://github.com/Yangyueee91/OpenMorra)。
 
 ## 鸣谢❤️
