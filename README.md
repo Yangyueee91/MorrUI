@@ -2,15 +2,20 @@
 ## 关于
 **MorrUI** 是一个使用 Total launcher 实现的用户界面设计。在以后， MorrUI 可能发展为一个**启动器**或是一个**真正的 UI** :shipit:
 
-### UI 主题色
-Morra Blue `#5B95F6`
+### 主题色
+- `#5B95F6` **Morra Blue**
+- `#4066AB` **Morra Blue** dark
+- `#4382E1` **Morra Blue** light
+- `#6379B3` **Morra Blue** pure
+- `#1C1B1F` background
+- `#1E1E21` background pure
 
 ## MorrUI 用户使用协议
 本 UI 的使用须受[《MorrUI 用户协议》](https://github.com/Yangyueee91/MorrUI/issues/3)的约束。
 > [!CAUTION]
 > 下载、导入或使用 MorrUI 即视为您已知悉且同意接受[《MorrUI 用户协议》](https://github.com/Yangyueee91/MorrUI/issues/3)各项条款的约束和将来的所有更改。
 
-## Q&A 答疑解惑
+## Q&A
 ### Q1 如何浏览主题活动？
 [点击查看↗](https://www.coolapk.com/u/19725581?from=qr)
 
@@ -41,7 +46,7 @@ OpenMorra 是享用 [CC BY-NC-SA 4.0 DEED](https://creativecommons.org/licenses/
 **图标**
 - Material Design Icons (图标由 [Pictogrammers](https://pictogrammers.com/library/mdi/) 提供)
 
-## 友情链接🔗
+## 友情链接 :bowtie:
 - [@Yangyueee](http://www.coolapk.com/u/19725581)（酷安）
 - [@Can1425](https://www.coolapk.com/u/16491420)（酷安）
 - [Flag OS](https://gitee.com/can1425/)
