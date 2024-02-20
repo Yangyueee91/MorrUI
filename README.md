@@ -2,7 +2,7 @@
   <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yangyueee91/MorrUI/assets/151371382/3743ab60-6a06-4fae-a172-6d077199d5c9
 ">
   <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yangyueee91/MorrUI/assets/151371382/b4b7b14e-5f45-4cbf-a52d-adf6b29aa694">
-  <img alt="IMG_MorrUI_logo." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+  <img alt="IMG_MorrUI_logo." src="https://github.com/Yangyueee91/MorrUI/assets/151371382/3743ab60-6a06-4fae-a172-6d077199d5c9">
 </picture>
 
 ## 关于
