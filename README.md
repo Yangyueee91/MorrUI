@@ -1,4 +1,10 @@
-![IMG_MorrUI_logo_625_500](https://github.com/Yangyueee91/MorrUI/assets/151371382/b4b7b14e-5f45-4cbf-a52d-adf6b29aa694)
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yangyueee91/MorrUI/assets/151371382/3743ab60-6a06-4fae-a172-6d077199d5c9
+">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yangyueee91/MorrUI/assets/151371382/b4b7b14e-5f45-4cbf-a52d-adf6b29aa694">
+  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png">
+</picture>
+
 ## 关于
 **MorrUI** 是一个使用 Total launcher 实现的用户界面设计。在以后， MorrUI 可能发展为一个**启动器**或是一个**真正的 UI** :shipit:
 
@@ -51,3 +57,5 @@ OpenMorra 是享用 [CC BY-NC-SA 4.0 DEED](https://creativecommons.org/licenses/
 - [@Can1425](https://www.coolapk.com/u/16491420)（酷安）
 - [Flag OS](https://gitee.com/can1425/)
 - [惟灿 Can1425](https://can1425.best1.top)
+
+<sub> Copyright © 2022-present [Yangyueee91](https://github.com/Yangyueee91) All Rights Reserved. </sub>
