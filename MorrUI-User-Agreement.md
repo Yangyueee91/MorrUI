@@ -46,7 +46,7 @@
 本《协议》[^4]最近更新于 `2024年2月23日`
 
 ### 九、注释
-[^1]: 参阅[第二条](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI%20User%20Agreement.md#%E4%BA%8C%E5%85%B3%E4%BA%8E%E6%9C%AC-ui)第 2 款。
-[^2]: 参阅[第六条](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI%20User%20Agreement.md#%E5%85%AD%E5%85%B3%E4%BA%8E%E5%8D%8F%E8%AE%AE)。
-[^3]: 参阅[第七条](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI%20User%20Agreement.md#%E4%B8%83%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)。
+[^1]: 参阅[第二条](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement.md#%E4%BA%8C%E5%85%B3%E4%BA%8E%E6%9C%AC-ui)第 2 款。
+[^2]: 参阅[第六条](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement.md#%E5%85%AD%E5%85%B3%E4%BA%8E%E5%8D%8F%E8%AE%AE)。
+[^3]: 参阅[第七条](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement.md#%E4%B8%83%E8%81%94%E7%B3%BB%E6%88%91%E4%BB%AC)。
 [^4]: Copyright © 2024 MorrUI All Rights Reserved.
