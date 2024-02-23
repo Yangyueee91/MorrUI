@@ -21,7 +21,7 @@
 > [!CAUTION]
 > 下载、导入或使用 MorrUI 即视为您已知悉且同意接受[《MorrUI 用户协议》](https://github.com/Yangyueee91/MorrUI/issues/3)各项条款的约束和将来的所有更改。
 
-## Q&A
+## FAQ
 <details>
 
 ### Q1 如何浏览主题活动？
