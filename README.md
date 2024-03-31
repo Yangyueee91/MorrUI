@@ -6,15 +6,17 @@
 </picture>
 
 ## 关于
-**MorrUI** 是一个使用 Total launcher 实现的用户界面设计。在以后， MorrUI 可能发展为一个**启动器**或是一个**真正的 UI** :shipit:
+**MorrUI** 是一个使用 Total launcher 实现的用户界面设计。在以后， MorrUI 会发展为一个**启动器**或是一个**真正的 UI** （in possible :shipit:）
 
 ### 主题色
+<details>
 - `#5B95F6` **Morra Blue**
 - `#4066AB` **Morra Blue** dark
 - `#4382E1` **Morra Blue** light
 - `#6379B3` **Morra Blue** pure
 - `#1C1B1F` background
 - `#1E1E21` background pure
+</details>
 
 ## MorrUI 用户使用协议
 本 UI 的使用须受[《MorrUI 用户使用协议》](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement.md)的约束。
