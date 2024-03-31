@@ -5,7 +5,7 @@
 </picture>
 
 ## 关于
-**MorrUI** 是一个使用 Total launcher 实现的用户界面设计。在以后， MorrUI 会发展为一个**启动器**或是一个**真正的 UI** （in possible :shipit:）
+**MorrUI** 是一个使用 [Total launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2) 实现的用户界面设计。在以后， MorrUI 会发展为一个**启动器**或是一个**真正的 UI** （in possible :shipit:）
 
 ### 主题色
 <details>
