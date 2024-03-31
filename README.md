@@ -1,11 +1,8 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yangyueee91/MorrUI/assets/151371382/3743ab60-6a06-4fae-a172-6d077199d5c9
-">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yangyueee91/MorrUI/assets/151371382/b4b7b14e-5f45-4cbf-a52d-adf6b29aa694">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yangyueee91/MorrUI/assets/151371382/2d0207c1-2648-4ed2-9dce-0a0e7307724d">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yangyueee91/MorrUI/assets/151371382/5a13556c-f949-43e8-ba31-8646beb7c9ac">
   <img alt="IMG_MorrUI_logo" src="https://github.com/Yangyueee91/MorrUI/assets/151371382/3743ab60-6a06-4fae-a172-6d077199d5c9">
 </picture>
-
-![IMG_20240331_165659](https://github.com/Yangyueee91/MorrUI/assets/151371382/e81fad01-392e-4f01-8368-d1e59a770711)
 
 ## 关于
 **MorrUI** 是一个使用 Total launcher 实现的用户界面设计。在以后， MorrUI 会发展为一个**启动器**或是一个**真正的 UI** （in possible :shipit:）
