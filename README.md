@@ -19,9 +19,9 @@
 </details>
 
 ## MorrUI 用户使用协议
-本 UI 的使用须受[《MorrUI 用户使用协议》](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement.md)的约束。
+本 UI 的使用须受[《MorrUI 用户使用协议》](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement_zh.md)的约束。
 > [!CAUTION]
-> 下载、导入或使用 MorrUI 即视为您已知悉且同意接受[《MorrUI 用户使用协议》](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement.md)各项条款的约束和将来的所有更改。
+> 下载、导入或使用 MorrUI 即视为您已知悉且同意接受[《MorrUI 用户使用协议》](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement_zh.md)各项条款的约束和将来的所有更改。
 
 ## FAQ
 <details>
