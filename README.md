@@ -35,25 +35,21 @@ OpenMorra 是依据 [**CC BY-NC-SA 4.0 DEED**](https://creativecommons.org/licen
 </details>
 
 ## 鸣谢❤️
-非常感谢以下和其他未提及的项目、个人和组织提供的帮助和灵感，如果没有他们，这个 UI 将难以制作！
+我们诚挚感谢以下及其他未提及的第三方项目、个人与组织提供的帮助和灵感，若没有他们，MorrUI 恐怕难以完成！再次感谢！（顺序不分先后）
 
 **插画**
 - [Storeyet](https://storyset.com/)
 
 **部分灵感借鉴自**
-- FineUI (由 [酷安@VicPeng](http://www.coolapk.com/u/3649029/) 制作)
-- [Flyme](https://www.flyme.com/)
+- [FineUI](http://www.coolapk.com/u/3649029/)
+- [MaoOS](https://www.coolapk.com/u/2766365)
 - [iOS](https://www.apple.com/ios/)
 
 **主要字体**
 - [MiSans](https://hyperos.mi.com/font/)
 
-**图标**
-- Material Design Icons (图标由 [Pictogrammers](https://pictogrammers.com/library/mdi/) 提供)
-
 ## 友情链接 :bowtie:
-- [@Yangyueee](http://www.coolapk.com/u/19725581)（酷安）
 - [@Can1425](https://www.coolapk.com/u/16491420)（酷安）
 - [SeniorOS](https://gitee.com/can1425/)
 
-<sub> Copyright © 2022-present Morra-Studio ([Yangyueee91](https://github.com/Yangyueee91) ) All Rights Reserved. </sub>
+<sub> Copyright © 2022-2026 MorraTech Studio ([Yangyueee91](https://github.com/Yangyueee91) ) All Rights Reserved. </sub>
