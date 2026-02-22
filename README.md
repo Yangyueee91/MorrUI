@@ -1,6 +1,6 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/Yangyueee91/MorrUI/assets/151371382/2d0207c1-2648-4ed2-9dce-0a0e7307724d">
-  <source media="(prefers-color-scheme: light)" srcset="https://github.com/Yangyueee91/MorrUI/assets/151371382/5a13556c-f949-43e8-ba31-8646beb7c9ac">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github.com/user-attachments/assets/d24171fe-ee7f-45bb-9967-b1b1ae5dfc9a">
+  <source media="(prefers-color-scheme: light)" srcset="https://github.com/user-attachments/assets/d7dce451-ff2c-4a02-96e6-bb63b3109ae5">
   <img alt="IMG_MorrUI_logo" src="https://github.com/Yangyueee91/MorrUI/assets/151371382/3743ab60-6a06-4fae-a172-6d077199d5c9">
 </picture>
 
