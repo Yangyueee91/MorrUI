@@ -10,12 +10,8 @@
 ### 主题色
 <details>
 
-- `#5B95F6` **Morra Blue**
-- `#4066AB` **Morra Blue** dark
-- `#4382E1` **Morra Blue** light
-- `#6379B3` **Morra Blue** pure
-- `#1C1B1F` background
-- `#1E1E21` background pure
+- `#5B95F6` Morra Blue
+- `#6379B3` Morra Purple
 </details>
 
 ## MorrUI 用户使用协议
