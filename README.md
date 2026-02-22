@@ -5,7 +5,7 @@
 </picture>
 
 ## 关于
-**MorrUI** 是一个使用 [Total launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2) 实现的用户界面设计（User Interface design）。在以后， MorrUI 会发展为一个**启动器**或是一个**真正的 UI** （in possible :shipit:）
+**MorrUI** 是使用 [Total launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2) 制作的主题包。
 
 ### 主题色
 <details>
@@ -34,8 +34,8 @@
 [点击查看↗](https://www.coolapk.com/feed/37039246?shareKey=YmM4NTIxZTU2ZTk5NjU4OWI2NDQ~&shareUid=19725581&shareFrom=com.coolapk.market_13.4.1)
 
 ---
-### Q3 我想要基于 MorrUI 进行二次创作？
-OpenMorra 是享用 [**CC BY-NC-SA 4.0 DEED**](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 协议共享的 Total Launcher 主题包，它拥有 MorrUI 的大部分特性，创作者可依照上述协议进行对 OpenMorra 的二次创作。若要详细了解 OpenMorra 请参见[此处](https://github.com/Yangyueee91/OpenMorra)。
+### Q3 我怎样才能基于 MorrUI 二创？
+OpenMorra 是依据 [**CC BY-NC-SA 4.0 DEED**](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 协议共享的 Total Launcher 主题包，它拥有 MorrUI 的大部分特性，创作者可依照上述协议对 OpenMorra 进行二次创作。若要详细了解 OpenMorra 请参见[此处](https://github.com/Yangyueee91/OpenMorra)。
 </details>
 
 ## 鸣谢❤️
