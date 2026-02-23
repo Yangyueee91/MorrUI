@@ -20,7 +20,6 @@
 > 下载、导入或使用 MorrUI 即视为您已知悉且同意接受[《MorrUI 用户使用协议》](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement_zh.md)各项条款的约束和将来的所有更改。
 
 ## FAQ
-<details>
 
 ### Q1 如何浏览主题活动？
 [点击查看↗](https://www.coolapk.com/u/19725581?from=qr)
@@ -31,10 +30,9 @@
 
 ---
 ### Q3 我怎样才能基于 MorrUI 二创？
-OpenMorra 是依据 [**CC BY-NC-SA 4.0 DEED**](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 协议共享的 Total Launcher 主题包，它拥有 MorrUI 的大部分特性，创作者可依照上述协议对 OpenMorra 进行二次创作。若要详细了解 OpenMorra 请参见[此处](https://github.com/Yangyueee91/OpenMorra)。
-</details>
+OpenMorra 是依据 [**CC BY-NC-SA 4.0 DEED**](https://creativecommons.org/licenses/by-nc-sa/4.0/deed.zh-hans) 协议共享的 Total Launcher 主题包，它拥有 MorrUI 的大部分特性，创作者可依照上述协议对 OpenMorra 进行二次创作。要详细了解 OpenMorra 请[查看仓库](https://github.com/Yangyueee91/OpenMorra)。
 
-## 鸣谢❤️
+## 鸣谢
 我们诚挚感谢以下及其他未提及的第三方项目、个人与组织提供的帮助和灵感，若没有他们，MorrUI 恐怕难以完成！再次感谢！（顺序不分先后）
 
 **插画**
@@ -48,7 +46,7 @@ OpenMorra 是依据 [**CC BY-NC-SA 4.0 DEED**](https://creativecommons.org/licen
 **主要字体**
 - [MiSans](https://hyperos.mi.com/font/)
 
-## 友情链接 :bowtie:
+## 友情链接
 - [酷安@Can1425](https://www.coolapk.com/u/16491420)
 - [SeniorOS](https://gitee.com/can1425/)
 
