@@ -4,6 +4,9 @@
   <img alt="IMG_MorrUI_logo" src="https://github.com/Yangyueee91/MorrUI/assets/151371382/3743ab60-6a06-4fae-a172-6d077199d5c9">
 </picture>
 
+![Stars](https://img.shields.io/github/stars/Yangyueee91/MorrUI?style=flat-square)
+![Version](https://img.shields.io/github/v/release/Yangyueee91/MorrUI)
+
 ## 关于
 **MorrUI** 是使用 [Total launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2) 制作的主题包。
 
