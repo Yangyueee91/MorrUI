@@ -10,13 +10,6 @@
 ## 关于
 **MorrUI** 是使用 [Total launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2) 制作的主题包。
 
-### 主题色
-<details>
-
-- `#5B95F6` Morra Blue
-- `#6379B3` Morra Purple
-</details>
-
 ## MorrUI 用户使用协议
 本 UI 的使用须受[《MorrUI 用户使用协议》](https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement_zh.md)的约束。
 > [!CAUTION]
