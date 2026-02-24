@@ -1,12 +1,10 @@
 # MorrUI 用户使用协议
 ### 一、前言
-- 感谢使用 MorrUI。在使用前，请您（下文代指 “用户”）务必阅读并知悉下述关于 “MorrUI” 及其附属产品（下文称 “UI”）的制作团队（下文称 “我们”）[^1]与您达成的具有法律约束力的 《MorrUI 用户使用协议》（下文称《协议》），请您审慎阅读并充分理解本《协议》内容后选择是否接受本《协议》。《协议》中使用*斜体*标明的文本您需要重点阅读。
+- 感谢使用 MorrUI。在使用前，请您（下文代指 “用户”）务必阅读并知悉下述关于 “MorrUI” 及其附属产品（下文称 “UI”）的制作团队（MorraTech Studio，下文称 “我们”）[^1]与您达成的具有法律效益的 《MorrUI 用户使用协议》（下文称《协议》）。请您审慎阅读并充分理解本《协议》内容后选择是否接受本《协议》。《协议》中使用*斜体*标明的部分您需要着重了解。
 
 ### 二、关于本 UI
-1. 名词定义：
-本 UI 是使用 Total Launcher 应用（下文称 “启动器”）所制作的一款桌面美化备份包（下文称 “主题包”）。
-3. 著作权与版权：
-“MorrUI” “MorrUI For Pad” “OpenMorra” 及 “篝光” 由制作者 [酷安@Yangyueee](http://www.coolapk.com/u/19725581)（参与制作 “MorrUI” “MorrUI For Pad” “OpenMorra”）及 [酷安@Can1425](http://www.coolapk.com/u/16491420)（参与制作 “MorrUI For Pad”）（即 “我们”）保留一切权利；*未经我们允许，您无权对本 UI 进行下述操作*（除 OpenMorra 外）：
+1. 定义：MorrUI 是使用 [Total Launcher](https://play.google.com/store/apps/details?id=com.ss.launcher2) 应用（下文称 “启动器”）的 “备份中心” 功能所制作的备份包。
+3. 著作权与版权：“MorrUI” “MorrUI For Pad” “OpenMorra” 及 “篝光” 由 [酷安@Yangyueee](http://www.coolapk.com/u/19725581)（参与制作 “MorrUI” “MorrUI For Pad” “OpenMorra”）与 [酷安@Can1425](http://www.coolapk.com/u/16491420)（参与制作 “MorrUI For Pad”）（即 “我们”）保留一切权利；*未经我们允许，您无权对本 UI 进行下述操作*（除 OpenMorra 外）：
    - *复制本 UI 的全部或部分内容，除非仅出于备份或存档本 UI 的目的。*
    - *对本 UI 进行二次创作并对外发布。*
    - *转载本 UI。*[^2]
