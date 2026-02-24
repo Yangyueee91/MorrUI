@@ -20,7 +20,6 @@
 转载本 UI 的相关内容建议一并注明以下内容：
   - 本 UI 原作者（即“我们”）。
   - 本 UI 原下载链接。
-仅为建议，非强制要求。
 
 ### 六、关于《协议》
 1. 《协议》以 `https://github.com/Yangyueee91/MorrUI/blob/main/MorrUI-User-Agreement_zh.md` 所上传的 `MorrUI-User-Agreement_zh.md` 文件最新版本为准，我们有权更改本《协议》的任何内容。
